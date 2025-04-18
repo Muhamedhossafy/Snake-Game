@@ -90,6 +90,10 @@ Contributions welcome! Please:
 ## 📜 **License**
 MIT License - See [LICENSE](LICENSE) for details
 
+## 📧 Contact
+- ✉️ **Email**: [muhamedammar0900@gmail.com](mailto:muhamedammar0900@gmail.com)  
+- 🔗 **LinkedIn**: [Muhamad Ammar](https://www.linkedin.com/in/muhamad-ammar-18b427306)
+
 ---
 
 **Happy gaming!** For issues or feature requests, please open an issue on GitHub.
