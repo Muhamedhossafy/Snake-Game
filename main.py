@@ -5,6 +5,7 @@ from scoreboard import Scoreboard
 import time
 window = Screen()
 window.setup(width = 800, height = 800)
+window.title("Snake Game")
 window.bgcolor("black")
 window.tracer(0)
 
